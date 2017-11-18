@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<TraitDef>
+		<defName>TemperatureTolerance</defName>
+		<commonality>0.8</commonality>
+		<degreeDatas>
+			<li>
+				<label>heat tolerant</label>
+				<description>NAME's body can withstand more heat than the average person's, but not so much coldness.</description>
+				<degree>1</degree>
+				<statOffsets>
+					<ComfyTemperatureMax>6.5</ComfyTemperatureMax>
+					<ComfyTemperatureMin>2</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li>
+				<label>cold tolerant</label>
+				<description>NAME's body is better at withstanding colder environments than the average person's, but not so much heat.</description>
+				<degree>0</degree>
+				<statOffsets>
+					<ComfyTemperatureMax>-2</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-6.5</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+</Defs>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Temperature Tolerant</name>
+  <author>XeoNovaDan</author>
+  <url>https://ludeon.com/forums/index.php?topic=32056.0</url>
+  <targetVersion>0.18.0</targetVersion>
+  <description>Re-adds the heat and cold tolerant traits which were removed in Alpha 16, albeit with a more conservative implementation.</description>
+</ModMetaData>
