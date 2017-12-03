@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TemperatureTolerance.degreeDatas.0.label>暑さに強い</TemperatureTolerance.degreeDatas.0.label>
+  <TemperatureTolerance.degreeDatas.0.description>NAMEの身体は普通の人よりも暑い環境に耐えることができますが、寒さにはそれほど強くありません。</TemperatureTolerance.degreeDatas.0.description>
+  <TemperatureTolerance.degreeDatas.1.label>寒さに強い</TemperatureTolerance.degreeDatas.1.label>
+  <TemperatureTolerance.degreeDatas.1.description>NAMEの身体は普通の人よりも寒い環境に耐えることができますが、暑さにはそれほど強くありません。</TemperatureTolerance.degreeDatas.1.description>
+
+
+</LanguageData>
